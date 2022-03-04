@@ -1,1 +1,1 @@
-# convert-money-to-text
+# Convert money to text
